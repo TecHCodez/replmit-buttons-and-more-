@@ -20,3 +20,5 @@ SEE THIS VIDEO TO SEE HOW TO DO IT 👉https://youtu.be/yhsfeUrum14>
 ## Run On [Repl.it](https://repl.it)
 
 ## To run the usual version, click the button below:
+
+## To run the modified version on repl.it, follow the steps:
