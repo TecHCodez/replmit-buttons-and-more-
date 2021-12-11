@@ -37,4 +37,4 @@
 Now follow the steps as in the [YouTube tutorial](https://youtu.be/Xf0zsd9m_io)!
 
 [![Follow @NavaneethKM004](https://img.shields.io/twitter/follow/NavaneethKM004?label=Follow&style=social&maxAge=3600, "Follow")](https://twitter.com/intent/follow?screen_name=NavaneethKM004)<br>
-Deploy On [Heroku](https://repl.it)
+Deploy On [Heroku](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)
