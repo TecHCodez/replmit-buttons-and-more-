@@ -12,4 +12,4 @@ SEE THIS VIDEO TO SEE HOW TO DO IT 👉https://youtu.be/yhsfeUrum14>
 <:pepe_salute:918694094665044029>
 [https://repl.it](button)
 - [ ] [https://repl.it](button)`hi`
-[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Radio-Bot)](https://repl.it/github/navaneethkm004/Discord-24x7-Radio-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Radio-Bot)](https://github.com/sohammohapatra6500/account/edit/main/README.md)
